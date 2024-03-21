@@ -18,7 +18,7 @@
 
  
 
-  - [Qualys Vulnerability Management Detection and Response]("C:\Users\ijcm1\OneDrive\Desktop\Noveo.AI\Certifications\Diploma VMDR.pdf") 
+  - [Qualys Vulnerability Management Detection and Response](file:///C:/Users/ijcm1/OneDrive/Desktop/Noveo.AI/Certifications/Diploma%20VMDR.pdf) 
 
   - [Security+](https://www.credly.com/earner/earned/badge/fc1776cc-e449-4175-812e-9c8783c16e07) 
 
