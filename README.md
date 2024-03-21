@@ -16,7 +16,7 @@
 
   - [Google Cybersecurity](https://github.com/Castro-Ian/Castro-Ian/blob/main/Google%20Cybersecurity%20Cert..pdf)
 
-  - [Data Analytics and Visualization](https://github.com/Castro-Ian/CastroIan/blob/main/Data%20Analytics%20%26%20Visualization%20Cert.pdf)
+  - [Data Analytics and Visualizations](https://github.com/Castro-Ian/CastroIan/blob/main/Data%20Analytics%20%26%20Visualization%20Cert.pdf)
 
 <h2> 🤳 Connect with me:</h2> 
 
