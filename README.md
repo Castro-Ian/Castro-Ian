@@ -14,6 +14,10 @@
   - [Qualys Vulnerability Management Detection and Response](https://github.com/Castro-Ian/Castro-Ian/blob/main/Diploma%20VMDR.pdf)
   - [Qualys Patch Management](https://github.com/Castro-Ian/Castro-Ian/blob/main/Patch%20Management%20Cert..pdf)
 
+  - [Google Cybersecurity](https://github.com/Castro-Ian/Castro-Ian/blob/main/Google%20Cybersecurity%20Cert..pdf)
+
+  - [Data Analytics and Visualization](https://github.com/Castro-Ian/CastroIan/blob/main/Data%20Analytics%20%26%20Visualization%20Cert.pdf)
+
 <h2> 🤳 Connect with me:</h2> 
 
  
