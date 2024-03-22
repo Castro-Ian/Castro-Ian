@@ -12,6 +12,7 @@
 <h2>📜 Certifications:</h2> 
 
   - [Qualys Vulnerability Management Detection and Response](https://github.com/Castro-Ian/Castro-Ian/blob/main/Diploma%20VMDR.pdf)
+  - [Qualys Agent](https://github.com/Castro-Ian/Castro-Ian/blob/main/Cloud%20Agent%20Cert..pdf)
   - [Qualys Patch Management](https://github.com/Castro-Ian/Castro-Ian/blob/main/Patch%20Management%20Cert..pdf)
 
   - [Google Cybersecurity](https://github.com/Castro-Ian/Castro-Ian/blob/main/Google%20Cybersecurity%20Cert..pdf)
