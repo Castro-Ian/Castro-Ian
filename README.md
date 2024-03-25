@@ -13,6 +13,7 @@
 
   - [Qualys Vulnerability Management Detection and Response](https://github.com/Castro-Ian/Castro-Ian/blob/main/Diploma%20VMDR.pdf)
   - [Qualys Cloud Agent](https://github.com/Castro-Ian/Castro-Ian/blob/main/Cloud%20Agent%20Cert..pdf)
+  - [Qualys Scanning Strategies and Best Practices](https://github.com/Castro-Ian/Castro-Ian/blob/main/Scanning%20Strategies%20and%20Best%20Practices%20Cert..pdf)
   - [Qualys Patch Management](https://github.com/Castro-Ian/Castro-Ian/blob/main/Patch%20Management%20Cert..pdf)
 
   - [Google Cybersecurity](https://github.com/Castro-Ian/Castro-Ian/blob/main/Google%20Cybersecurity%20Cert..pdf)
