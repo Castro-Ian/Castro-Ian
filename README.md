@@ -12,6 +12,7 @@
 <h2>📜 Certifications:</h2> 
 
   - [Qualys Vulnerability Management Detection and Response](https://github.com/Castro-Ian/Castro-Ian/blob/main/Diploma%20VMDR.pdf)
+  - [Qualys CyberSecurity Asset Management](https://github.com/Castro-Ian/Castro-Ian/blob/main/CyberSecurity%20Asset%20Management%20Cert..pdf)
   - [Qualys Cloud Agent](https://github.com/Castro-Ian/Castro-Ian/blob/main/Cloud%20Agent%20Cert..pdf)
   - [Qualys Scanning Strategies and Best Practices](https://github.com/Castro-Ian/Castro-Ian/blob/main/Scanning%20Strategies%20and%20Best%20Practices%20Cert..pdf)
   - [Qualys Reporting Strategies and Best Practices](https://github.com/Castro-Ian/Castro-Ian/blob/main/Reporting%20Strategies%20and%20Best%20Practices%20Cert..pdf)
