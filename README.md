@@ -6,7 +6,7 @@
 
  
 
- - [Azure Under Construction...](Link) 
+ - [Azure Threat Intelligence](https://github.com/Castro-Ian/Project-Azure-Threat-Intelligence/blob/main/README.md) 
 
 
 <h2>📜 Certifications:</h2> 
