@@ -12,6 +12,7 @@
 <h2>📜 Certifications:</h2> 
 
   - [Google Cybersecurity](https://github.com/Castro-Ian/Castro-Ian/blob/main/Google%20Cybersecurity%20Cert..pdf)
+    
 
   - [Qualys Vulnerability Management Detection and Response](https://github.com/Castro-Ian/Castro-Ian/blob/main/Diploma%20VMDR.pdf)
   - [Qualys CyberSecurity Asset Management](https://github.com/Castro-Ian/Castro-Ian/blob/main/CyberSecurity%20Asset%20Management%20Cert..pdf)
@@ -21,6 +22,7 @@
   - [Qualys Patch Management](https://github.com/Castro-Ian/Castro-Ian/blob/main/Patch%20Management%20Cert..pdf)
   - [Qualys Policy Compliance](https://github.com/Castro-Ian/Castro-Ian/blob/main/Policy%20Compliance%20Certification.pdf)
   - [Qualys PCI compliance](https://github.com/Castro-Ian/Castro-Ian/blob/main/PCI%20Compliance.pdf)
+    
 
   - [UCF Data Analytics and Visualizations](https://github.com/Castro-Ian/CastroIan/blob/main/Data%20Analytics%20%26%20Visualization%20Cert.pdf)
 
@@ -34,6 +36,8 @@
 
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
+[linkedin]: [https://linkedin.com/in/in/castro-ian/]
+
 [twitter]: https://twitter.com/ 
 
-[linkedin]: [https://linkedin.com/in/](https://www.linkedin.com/in/castro-ian/)
+
