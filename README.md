@@ -11,6 +11,9 @@
 
 <h2>📜 Certifications:</h2> 
 
+  - [FortiNet-FCA-FortiGate Operator](https://github.com/Castro-Ian/Castro-Ian/blob/main/FortiGate.pdf)
+    
+
   - [Google Cybersecurity](https://github.com/Castro-Ian/Castro-Ian/blob/main/Google%20Cybersecurity%20Cert..pdf)
     
     
