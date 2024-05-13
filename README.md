@@ -26,6 +26,7 @@
   - [Qualys Patch Management](https://github.com/Castro-Ian/Castro-Ian/blob/main/Patch%20Management%20Cert..pdf)
   - [Qualys Policy Compliance](https://github.com/Castro-Ian/Castro-Ian/blob/main/Policy%20Compliance%20Certification.pdf)
   - [Qualys PCI compliance](https://github.com/Castro-Ian/Castro-Ian/blob/main/PCI%20Compliance.pdf)
+  - [Qualys File Integrity Monitoring](https://github.com/Castro-Ian/Castro-Ian/blob/main/File%20Integrity%20Monitoring.pdf)
 
     
 
