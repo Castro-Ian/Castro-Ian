@@ -11,7 +11,7 @@
 
 <h2>📜 Certifications:</h2> 
 
-  -  [Comptia Network+](https://github.com/Castro-Ian/Castro-Ian/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)
+  -  [CompTIA Network+](https://github.com/Castro-Ian/Castro-Ian/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)
 
   - [FortiNet Certified Associate in Cybersecurity](https://github.com/Castro-Ian/Castro-Ian/blob/main/FortinetCertified%20Associate%20in%20Cybersecurity.pdf)
     
