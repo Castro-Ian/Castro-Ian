@@ -16,7 +16,7 @@
   - [FortiNet Certified Associate in Cybersecurity](https://github.com/Castro-Ian/Castro-Ian/blob/main/FortinetCertified%20Associate%20in%20Cybersecurity.pdf)
     
 
-  - [Google Cybersecurity](https://github.com/Castro-Ian/Castro-Ian/blob/main/Google%20Cybersecurity%20Cert..pdf)
+  - [Google Cybersecurity Certification](https://github.com/Castro-Ian/Castro-Ian/blob/main/Google%20Cybersecurity%20Cert..pdf)
     
     
 
