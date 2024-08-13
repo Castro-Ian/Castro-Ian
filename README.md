@@ -49,6 +49,6 @@
 
 [linkedin]: https://linkedin.com/in/in/castro-ian/
 
-[twitter]: https://twitter.com/ 
+[twitter]: [https://twitter.com/](https://x.com/NetSecIan) 
 
 
