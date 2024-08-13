@@ -47,8 +47,8 @@
 
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
-[linkedin]: (https://linkedin.com/in/in/castro-ian/)
+[linkedin]: [(https://linkedin.com/in/in/castro-ian/)]
 
-[twitter]: (https://twitter.com/](https://x.com/NetSecIan)](https://x.com/NetSecIan) 
+[twitter]: [(https://twitter.com/](https://x.com/NetSecIan)](https://x.com/NetSecIan)]
 
 
